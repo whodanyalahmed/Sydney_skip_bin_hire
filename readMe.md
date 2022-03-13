@@ -7,14 +7,14 @@ then<br>
 then<br>
 3 - Download the ChromeDriver and add it to the project directory...
 then<br>
-
+4 - Update the path of the ChromeDriver in the script (`app.py`)...
+then
 
 ## How to install dependencies
 
 ```
 pip install -r requirements.txt
 ```
-
 
 ## How to run the program
 
